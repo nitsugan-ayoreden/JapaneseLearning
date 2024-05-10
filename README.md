@@ -8,9 +8,10 @@ This is work in progress and started as a project just for me so please be mindf
 ---
 
 ### Dictionaries
-Desktop
+**Desktop**
 - Jisho
-For mobile
+
+**Mobile**
 - Jotoba
 
 ### Kanji & Vocab Learning
